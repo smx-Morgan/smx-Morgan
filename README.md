@@ -10,7 +10,7 @@
 
 ![smx-Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=smx-Morgan&show_icons=true&theme=tokyonight)
 
-***积累访问人数***
+***Cumulative number of visitors***
 
 ![Visitor Count](https://profile-counter.glitch.me/smx-Morgan/count.svg)
 
