@@ -10,5 +10,6 @@
 
 ![smx-Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=smx-Morgan&show_icons=true&theme=tokyonight)
 
-![smx-Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=smx-Morgan&show_icons=true&theme=tokyonight)
+![Visitor Count](https://profile-counter.glitch.me/smx-Morgan/count.svg)
+
 
