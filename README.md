@@ -9,3 +9,5 @@
 
 
 ![smx-Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=smx-Morgan&show_icons=true&theme=tokyonight)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=smx-Morgan&layout=compact&theme=tokyonight)
