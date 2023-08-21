@@ -7,8 +7,6 @@
 - 📫 How to reach me: smxmorgab@gmail.com
 
 
-![smx-Morgan's GitHub stats](https://github-readme-stats.vercel.app/api?username=smx-Morgan&show_icons=true&theme=tokyonight)
-
 ***Cumulative number of visitors***
 
 ![Visitor Count](https://profile-counter.glitch.me/smx-Morgan/count.svg)
