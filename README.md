@@ -6,11 +6,13 @@
 - 🌱 I’m currently learning golang , distributed system and natural language processing
 - 📫 How to reach me: smxmorgab@gmail.com
 
+
 - My open-source experience:
-- My contribution to beego
 - https://github.com/beego/beego/pull/5404
 - https://github.com/beego/beego/pull/5460
 
+
+- I am passionate about infrastructure construction, exploring more reasonable code structures and logic
 
 ***Cumulative number of visitors***
 
