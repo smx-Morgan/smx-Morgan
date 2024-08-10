@@ -7,9 +7,6 @@ Hi, I’m smx-Morgan currently in master of cs
 - 📫 How to reach me: smxmorgab@gmail.com
 
 
-My open-source experience:
-- https://github.com/beego/beego/pull/5404
-- https://github.com/beego/beego/pull/5460
 
 
 I am passionate about infrastructure construction, exploring more reasonable code structures and logic.
