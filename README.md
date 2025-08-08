@@ -11,8 +11,5 @@ Hi, I’m smx-Morgan currently in master of cs
 
 I am passionate about infrastructure construction, exploring more reasonable code structures and logic.
 
-***Cumulative number of visitors***
-
-![Visitor Count](https://profile-counter.glitch.me/smx-Morgan/count.svg)
 
 
